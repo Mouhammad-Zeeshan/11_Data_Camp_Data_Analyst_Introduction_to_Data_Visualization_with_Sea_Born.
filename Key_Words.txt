@@ -1,0 +1,30 @@
+
+Introduction to Data Visualization with Seaborn
+
+Chapter-01:
+1. seaborn as sns
+2. scatter plot 
+3. count plot
+ 
+Chapter-02:
+1. relplot()
+
+Chapter-03:
+1. catplot()
+2. lineplot
+3. bar plot
+4. box plot
+
+
+Chapter-04: 
+1. seaborn preset figure style:
+white, dark, whitegrid, darkgrid, ticks
+2. sns.set_style()
+3. sns.set_palette()
+4. sns.set_****()
+5. g.fig.suptitle("Title Name")
+6. g.set_titles([Title_1])
+7. g.set(xlabel = "Xaxis" ,  ylabel="yaxis")
+8. 
+ 
+
